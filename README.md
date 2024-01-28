@@ -1,2 +1,2 @@
-# Bootstrap-Odev-2
-Bootstrap ile Instagram Clone
+# instagrambootstrapclone
+Simple HTML Instagram clone made with Bootstrap.
